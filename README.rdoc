@@ -1,0 +1,6 @@
+= nfl
+
+Get NFL Stats fast via the command line. Filter and sort capabilities
+
+:include:nfl.rdoc
+

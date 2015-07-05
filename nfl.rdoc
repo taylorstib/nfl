@@ -1,0 +1,5 @@
+= nfl
+
+Generate this with
+    nfl rdoc
+After you have described your command line interface
